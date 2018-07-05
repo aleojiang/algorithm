@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaDynamicProxy.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaDynamicProxy.iml" group="JavaDynamicProxy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaDynamicProxy/JavaDynamicProxy_main.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaDynamicProxy/JavaDynamicProxy_main.iml" group="JavaDynamicProxy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaDynamicProxy/JavaDynamicProxy_test.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaDynamicProxy/JavaDynamicProxy_test.iml" group="JavaDynamicProxy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/algorithm.iml" filepath="$PROJECT_DIR$/.idea/modules/algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/algorithm_main.iml" filepath="$PROJECT_DIR$/.idea/modules/algorithm_main.iml" group="algorithm" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/algorithm_test.iml" filepath="$PROJECT_DIR$/.idea/modules/algorithm_test.iml" group="algorithm" />
+    </modules>
+  </component>
+</project>
