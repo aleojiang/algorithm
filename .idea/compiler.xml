@@ -17,6 +17,10 @@
     <bytecodeTargetLevel>
       <module name="algorithm_main" target="1.8" />
       <module name="algorithm_test" target="1.8" />
+      <module name="basic-paxos_main" target="1.8" />
+      <module name="basic-paxos_test" target="1.8" />
+      <module name="generic_main" target="1.8" />
+      <module name="generic_test" target="1.8" />
       <module name="JavaDynamicProxy_main" target="1.8" />
       <module name="JavaDynamicProxy_test" target="1.8" />
     </bytecodeTargetLevel>

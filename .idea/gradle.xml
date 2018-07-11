@@ -10,6 +10,8 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/JavaDynamicProxy" />
+            <option value="$PROJECT_DIR$/basic-paxos" />
+            <option value="$PROJECT_DIR$/generic" />
           </set>
         </option>
       </GradleProjectSettings>

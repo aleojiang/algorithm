@@ -1,3 +1,4 @@
-rootProject.name = 'algorithm'
 include 'JavaDynamicProxy'
+include 'basic-paxos'
+include 'generic'
 

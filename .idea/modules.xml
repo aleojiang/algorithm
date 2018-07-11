@@ -5,9 +5,13 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaDynamicProxy.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaDynamicProxy.iml" group="JavaDynamicProxy" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaDynamicProxy/JavaDynamicProxy_main.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaDynamicProxy/JavaDynamicProxy_main.iml" group="JavaDynamicProxy" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaDynamicProxy/JavaDynamicProxy_test.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaDynamicProxy/JavaDynamicProxy_test.iml" group="JavaDynamicProxy" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/algorithm.iml" filepath="$PROJECT_DIR$/.idea/modules/algorithm.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/algorithm_main.iml" filepath="$PROJECT_DIR$/.idea/modules/algorithm_main.iml" group="algorithm" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/algorithm_test.iml" filepath="$PROJECT_DIR$/.idea/modules/algorithm_test.iml" group="algorithm" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/basic-paxos.iml" filepath="$PROJECT_DIR$/.idea/modules/basic-paxos.iml" group="basic-paxos" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/basic-paxos/basic-paxos_main.iml" filepath="$PROJECT_DIR$/.idea/modules/basic-paxos/basic-paxos_main.iml" group="basic-paxos" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/basic-paxos/basic-paxos_test.iml" filepath="$PROJECT_DIR$/.idea/modules/basic-paxos/basic-paxos_test.iml" group="basic-paxos" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/generic.iml" filepath="$PROJECT_DIR$/.idea/modules/generic.iml" group="generic" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/generic/generic_main.iml" filepath="$PROJECT_DIR$/.idea/modules/generic/generic_main.iml" group="generic" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/generic/generic_test.iml" filepath="$PROJECT_DIR$/.idea/modules/generic/generic_test.iml" group="generic" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-tutorial-algorithm.iml" filepath="$PROJECT_DIR$/.idea/modules/java-tutorial-algorithm.iml" />
     </modules>
   </component>
 </project>
